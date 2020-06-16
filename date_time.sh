@@ -1,3 +1,5 @@
+# Similar to cal_time.sh But Will Give only give recursive output of command 'date'
+
 echo "CLOCK"
 
 while [ True ];
